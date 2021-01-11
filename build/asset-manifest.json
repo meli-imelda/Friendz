@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Friendznpm%20install%20--save%20gh-pages/static/css/main.6aed365d.chunk.css",
+    "main.js": "/Friendznpm%20install%20--save%20gh-pages/static/js/main.82d45d13.chunk.js",
+    "main.js.map": "/Friendznpm%20install%20--save%20gh-pages/static/js/main.82d45d13.chunk.js.map",
+    "runtime-main.js": "/Friendznpm%20install%20--save%20gh-pages/static/js/runtime-main.57e4d6fb.js",
+    "runtime-main.js.map": "/Friendznpm%20install%20--save%20gh-pages/static/js/runtime-main.57e4d6fb.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Friendznpm%20install%20--save%20gh-pages/static/css/2.31461e4f.chunk.css",
+    "static/js/2.66c39146.chunk.js": "/Friendznpm%20install%20--save%20gh-pages/static/js/2.66c39146.chunk.js",
+    "static/js/2.66c39146.chunk.js.map": "/Friendznpm%20install%20--save%20gh-pages/static/js/2.66c39146.chunk.js.map",
+    "static/js/3.86b9faf3.chunk.js": "/Friendznpm%20install%20--save%20gh-pages/static/js/3.86b9faf3.chunk.js",
+    "static/js/3.86b9faf3.chunk.js.map": "/Friendznpm%20install%20--save%20gh-pages/static/js/3.86b9faf3.chunk.js.map",
+    "index.html": "/Friendznpm%20install%20--save%20gh-pages/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Friendznpm%20install%20--save%20gh-pages/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.6aed365d.chunk.css.map": "/Friendznpm%20install%20--save%20gh-pages/static/css/main.6aed365d.chunk.css.map",
+    "static/js/2.66c39146.chunk.js.LICENSE.txt": "/Friendznpm%20install%20--save%20gh-pages/static/js/2.66c39146.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57e4d6fb.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.66c39146.chunk.js",
+    "static/css/main.6aed365d.chunk.css",
+    "static/js/main.82d45d13.chunk.js"
+  ]
+}

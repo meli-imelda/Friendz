@@ -26,7 +26,9 @@ class App extends Component{
             <div className='tc'>
                 <h1 className='f1'>Friendz</h1>
                 <SearchBox searchChange={this.onSearchChange} />
+                <Scroll>
                 <Cardlist  friendz={filteredFriendz}/>
+                </Scroll>
             </div>
         );
     }
